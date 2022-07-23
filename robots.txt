@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://g1ga.github.io/blog/sitemap.xml

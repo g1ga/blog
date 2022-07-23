@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>g1ga</title>
+    <link href="https://g1ga.github.io/blog/feed.xml" rel="self" />
+    <link href="https://g1ga.github.io/blog" />
+    <updated>2022-07-23T19:44:16+02:00</updated>
+    <author>
+        <name>LB</name>
+    </author>
+    <id>https://g1ga.github.io/blog</id>
+
+    <entry>
+        <title>Ciaone World!</title>
+        <author>
+            <name>LB</name>
+        </author>
+        <link href="https://g1ga.github.io/blog/ciaone-world.html"/>
+        <id>https://g1ga.github.io/blog/ciaone-world.html</id>
+
+        <updated>2022-07-23T19:44:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Bella frà
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Bella frà</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
